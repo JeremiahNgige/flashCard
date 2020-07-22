@@ -3,6 +3,36 @@ $("document").ready(function(){
         $("#js-descr").slideDown();
     });
     $("#js-descr").click(function(){
-        $(this).hide();
+        $(this).slideUp();
+    });
+    $("#operator").click(function(){
+        $("#op-descr").slideDown();
+    });
+    $("#op-descr").click(function(){
+        $(this).slideUp();
+    });
+    $("#variable").click(function(){
+        $("#var-descr").slideDown();
+    });
+    $("#var-descr").click(function(){
+        $(this).slideUp();
+    });
+    $("#conventions").click(function(){
+        $("#conv-descr").slideDown();
+    });
+    $("#conv-descr").click(function(){
+        $(this).slideUp();
+    });
+    $("#functions").click(function(){
+        $("#fn-descr").slideDown();
+    });
+    $("#fn-descr").click(function(){
+        $(this).slideUp();
+    });
+    $("#method").click(function(){
+        $("#method-descr").slideDown();
+    });
+    $("#method-descr").click(function(){
+        $(this).slideUp();
     });
 });
