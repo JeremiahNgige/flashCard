@@ -1,4 +1,4 @@
-## Project Name
+# Project Name
 
  FlashCard.
 
@@ -13,10 +13,11 @@
   Jquery
   JavaScript
 
- ## Licenses
+## Licenses
 
-  MIT license. 
+  MIT license.
 
- ## Contributors.
+## Contributors
 
-  ngige,Brian 
+  Ngige brian
+  
